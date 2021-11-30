@@ -261,5 +261,8 @@ span{
         padding: 0.5rem 1rem;
     }
 
+    .navbar-links.active{
+        display: flex;
+
 
 }
